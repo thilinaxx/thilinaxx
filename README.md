@@ -26,6 +26,8 @@ Building useful things, one project at a time.
 * JavaScript
 * HTML
 * CSS
+* React
+* NestJs
 
 ### Tools & Technologies
 
